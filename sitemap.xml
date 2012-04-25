@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://librize.github.com/404.html</loc>
+        <lastmod>2012-04-26T01:12:45+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://librize.github.com/blog/archives/</loc>
-        <lastmod>2012-04-26T00:17:13+09:00</lastmod>
+        <lastmod>2012-04-26T01:12:45+09:00</lastmod>
     </url>
     <url>
         <loc>http://librize.github.com/</loc>
-        <lastmod>2012-04-26T00:17:13+09:00</lastmod>
+        <lastmod>2012-04-26T01:12:45+09:00</lastmod>
     </url>
 </urlset>
